@@ -1,0 +1,47 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+.pnpm-debug.log*
+
+# build
+dist/
+build/
+
+# environment
+.env
+.env.local
+.env.*.local
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Editor swap files
+*.swp
+
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# Packages and build
+dist/
+build/
+*.egg-info/
+
+# Pytest
+.pytest_cache/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
